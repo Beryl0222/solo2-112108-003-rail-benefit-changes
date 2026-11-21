@@ -1,0 +1,5 @@
+{"id": "b1", "person": "p1", "account": "p1", "aliases": ["林姐", "林岚"], "boarding": "西桥", "alighting": "北林", "service": "R63", "benefit": "e1"}
+{"id": "b2", "person": "p2", "account": "p1", "aliases": ["小陶", "陶陶"], "boarding": "西桥", "alighting": "北林", "service": "R63", "benefit": null}
+{"id": "b3", "person": "p3", "account": "p3", "aliases": ["陈师傅", "陈建"], "boarding": "西桥", "alighting": "石影", "service": "R63", "benefit": "e3"}
+{"id": "b4", "person": "p4", "account": "p4", "aliases": ["陈师傅", "陈礼"], "boarding": "石湾", "alighting": "北林", "service": "R63", "benefit": null}
+{"id": "b5", "person": "p5", "account": "p5", "aliases": ["外婆", "郭芸"], "boarding": "西桥", "alighting": "北林", "service": "R63", "benefit": null}

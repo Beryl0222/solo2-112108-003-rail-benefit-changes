@@ -1,0 +1,47 @@
+{
+  "orders": [
+    "id",
+    "person",
+    "account",
+    "aliases",
+    "boarding",
+    "alighting",
+    "service",
+    "benefit"
+  ],
+  "benefits": [
+    "id",
+    "holder",
+    "recipient_scope",
+    "required_stop",
+    "feature"
+  ],
+  "trains": [
+    "id",
+    "departures",
+    "stops",
+    "seats",
+    "features",
+    "accepted"
+  ],
+  "notices": [
+    "id",
+    "author",
+    "at",
+    "reply",
+    "text"
+  ],
+  "messages": [
+    "id",
+    "actor",
+    "reply",
+    "at",
+    "text"
+  ],
+  "counter": [
+    "at",
+    "service",
+    "seat_delta",
+    "request"
+  ]
+}

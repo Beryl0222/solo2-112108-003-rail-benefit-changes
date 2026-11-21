@@ -1,0 +1,4 @@
+{"id": "R74", "departures": "2026-11-24T08:10:00+08:00", "stops": ["东城", "石湾", "石影", "北林"], "seats": 4, "features": ["演出"], "accepted": true}
+{"id": "R75", "departures": "2026-11-24T09:50:00+08:00", "stops": ["东城", "石影", "北林"], "seats": 3, "features": ["手作"], "accepted": true}
+{"id": "R81", "departures": "2026-11-24T10:15:00+08:00", "stops": ["西桥", "石影", "北林"], "seats": 4, "features": ["演出", "手作"], "accepted": true}
+{"id": "R88", "departures": "2026-11-24T11:10:00+08:00", "stops": ["石湾", "北林"], "seats": 2, "features": [], "accepted": false}
